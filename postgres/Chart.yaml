@@ -1,6 +1,6 @@
 name: postgres
 home: https://github.com/pollen8io
-version: 1.0
+version: 1.1
 description: Postgres Packaged CrunchyData Postgres Helm
 icon: https://www.postgresql.org/media/img/about/press/elephant.png
 sources:

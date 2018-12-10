@@ -1,0 +1,26 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+description: Postgres Packaged CrunchyData Postgres Helm
+home: https://github.com/pollen8io
+icon: https://www.postgresql.org/media/img/about/press/elephant.png
+maintainers:
+- - name: Ben Dunham
+name: postgres
+sources:
+- - https://github.com/pollen8io/helm-charts/postgres
+version: "1.1"
+
+...
+files:
+  postgres-1.1.tgz: sha256:9f1b9422f90d73055034e575117a2cd7f3de22f7b086a2273bafee1403c02876
+-----BEGIN PGP SIGNATURE-----
+
+wsBcBAEBCgAQBQJcDrkJCRDgs/XJOL1tHgAAehcIAIYUzKfKhqFyUObFVHISRYcj
+vNIcbJAHeJXkH8cSSJyAZ1PR67B95ccn3vA0m1PBeB4cLfnm9FeDzyqrz7SdzVu9
+IXidAo6DyjttJlOLSGhGjs96CopK6dKBwkHAvcO6hfOzidQ+t2CYUzlQ0wzzjyzX
+kLa96q0SRbffmUBWAZ5kXDFdxWslCAFIZgH58MFex7ByErrh7J3XIz/9pot2VgNl
+699icfkSutF2LBv2EEq02b4TjywWHL06iDtu49IDnxDZ5dE0LuQW4TKPd64i0dNf
+kXLPEnIyV5sqmofP8Pra5GyG1BgOOjgReAw/KL7calc9/Ez6EwK8SYvWeo0nAyk=
+=f1p+
+-----END PGP SIGNATURE-----

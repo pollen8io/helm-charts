@@ -12,6 +12,6 @@ entries:
     sources:
     - https://github.com/pollen8io/helm-charts/postgres
     urls:
-    - postgres-1.tgz
-    version: "1"
+    - postgres-1.1.tgz
+    version: 1.1
 generated: 2018-12-10T18:34:37.01859Z

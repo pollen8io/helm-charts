@@ -58,7 +58,7 @@ resources: {}
 ##
 persistentVolume:
   enabled: true
-  storageClass: gold
+  storageClass: oci
   accessModes: 
     - ReadWriteOnce
   size: 10Gi
