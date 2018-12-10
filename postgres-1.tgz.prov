@@ -2,25 +2,25 @@
 Hash: SHA512
 
 description: Postgres Packaged CrunchyData Postgres Helm
-home: https://github.com/pollen8
+home: https://github.com/pollen8io
 icon: https://www.postgresql.org/media/img/about/press/elephant.png
 maintainers:
 - - name: Ben Dunham
 name: postgres
 sources:
-- - https://github.com/pollen8/helm-charts/postgres
+- - https://github.com/pollen8io/helm-charts/postgres
 version: "1"
 
 ...
 files:
-  postgres-1.tgz: sha256:8a582dc4e813871fabe0b91cc724c80430e5fc5054f6a87f7959719bba68c905
+  postgres-1.tgz: sha256:a2aa979b03b7507053a1a8e6be879ba07b8947ae50d0e1dab6f903646d0612c5
 -----BEGIN PGP SIGNATURE-----
 
-wsBcBAEBCgAQBQJcDrANCRDgs/XJOL1tHgAA+1QIAGlPi+v+IQALMDBLZyiJlkj2
-VmhmjQ2R6SXoA330VuS6BevGMycG13c9D7sObBhMUjW3AFbfnKOKjdvUdPscCYbx
-YO5P4tPac7Y7+/R11gQaSCiCAOcNtHRnOiEXc+ZPH4x1jWgdPOr3+6B0P3w82qy6
-/zgC3HVP+haVSdp2l+4jQ1nySLFtXZmGF6ac4DRmbLAPYo4GXble8KqTvJ7F5GoQ
-dO0W68HOkPKcuxDs00hRIePemoZvn1uLItf2AHL2Wy+hVCtttifw99goijYOk8tS
-9Ok7bAWeEDiZI0RPQziV9zoPiwsGTzJh5JhxbzswSZLhCMm5XURSUbF/GxsmL4g=
-=FU1q
+wsBcBAEBCgAQBQJcDrM5CRDgs/XJOL1tHgAAxL8IAJ6YFv51KzfYevxizXjRO2Kz
+BOguqPRDUyBVnxToJe/3f94FHdnOGLCWnW/jY2akKro82Yd2AP3qi2D7ehawU5io
+9P8x9it2+yQ+762CMjkVebBeZ54BUM2nSqiV+aBlz0ZLODjwFYCfQ4NrCOcWMpeH
+hT/OEgagt8MPYNff3NSltkiM5v4hK+3mtYtUaS64ddmGFBZUqp8AmX1BRZIrmzWL
+n4iP7orL6H+GV06jHBPamXRT9LIiG1gzZTv/C9vhHqpNCbXny2e6NWtu6TW/IRVU
+0u0UzONOhKrNfBHmeakYgdtJs6r95yMeltPdzOlSUbSZJ0qcNtEivolVd8gcXmk=
+=0VII
 -----END PGP SIGNATURE-----
