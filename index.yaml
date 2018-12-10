@@ -1,0 +1,17 @@
+apiVersion: v1
+entries:
+  postgres:
+  - created: 2018-12-10T18:34:37.020968Z
+    description: Postgres Packaged CrunchyData Postgres Helm
+    digest: 8a582dc4e813871fabe0b91cc724c80430e5fc5054f6a87f7959719bba68c905
+    home: https://github.com/pollen8
+    icon: https://www.postgresql.org/media/img/about/press/elephant.png
+    maintainers:
+    - name: Ben Dunham
+    name: postgres
+    sources:
+    - https://github.com/pollen8/helm-charts/postgres
+    urls:
+    - postgres-1.tgz
+    version: "1"
+generated: 2018-12-10T18:34:37.01859Z

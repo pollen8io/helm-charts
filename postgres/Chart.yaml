@@ -1,0 +1,9 @@
+name: postgres
+home: https://github.com/pollen8
+version: 1.0
+description: Postgres Packaged CrunchyData Postgres Helm
+icon: https://www.postgresql.org/media/img/about/press/elephant.png
+sources:
+- https://github.com/pollen8/helm-charts/postgres
+maintainers:
+- name: Ben Dunham
